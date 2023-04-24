@@ -25,7 +25,7 @@ Short summary on functionality and used technologies.
 
 | Solution    | Author(s)                                               |
 | ----------- | ------------------------------------------------------- |
-| folder name | Author details (name, company, twitter alias with link) |
+| SPFX-FeedbackWebpart | Sarmistha Bhatta |
 
 ## Version history
 
